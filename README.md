@@ -11,6 +11,7 @@
 <a href="https://open.spotify.com/user/ktrvnptem5fb0gfyzkcd00l7i"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="Spotify" width="40" height="40"></a>
 </br>
 <a href="http://twitch.tv/PizzaBossXD"><img src="https://www.tailorbrands.com/wp-content/uploads/2021/04/twitch-logo.png" alt="Twitch" width="40" height="40"></a>
+<a href="http://pinterest.com/PizzaBossXD/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" alt="Pinterest" width="40" height="40"></a>
 
 <!---
 PizzaBossXD/PizzaBossXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
