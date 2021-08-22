@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing...
 - 📫 How to reach me, just use email: pzbossxd@yahoo.com ...
 
-<a href="http://twitter.com/PizzaBossXD"><img src="https://www.danoneinstitute.org/wp-content/uploads/2020/06/logo-rond-twitter.png" alt="Twitter" width="80" height="80"></a>
+<a href="http://twitter.com/PizzaBossXD"><img src="https://www.danoneinstitute.org/wp-content/uploads/2020/06/logo-rond-twitter.png" alt="Twitter" width="50" height="50"></a>
 
 <!---
 PizzaBossXD/PizzaBossXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
