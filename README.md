@@ -10,6 +10,9 @@
 <a href="http://twitch.tv/PizzaBossXD"><img src="https://www.tailorbrands.com/wp-content/uploads/2021/04/twitch-logo.png" alt="Twitch" width="40" height="40"></a>
 <a href="http://pinterest.com/PizzaBossXD/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" alt="Pinterest" width="40" height="40"></a>
 
+## Discord Server (Don't join it)
+<a href="https://discord.gg/3h9jQ3R"><img src="https://invidget.switchblade.xyz/3h9jQ3R" /></a>
+
 <!---
 PizzaBossXD/PizzaBossXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
