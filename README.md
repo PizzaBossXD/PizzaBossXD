@@ -11,7 +11,7 @@
 <a href="http://pinterest.com/PizzaBossXD/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" alt="Pinterest" width="40" height="40"></a>
 
 ## Discord Server (Don't join it)
-<a href="https://discord.gg/3h9jQ3R"><img src="https://invidget.switchblade.xyz/3h9jQ3R" /></a>
+<a href="https://discord.gg/3h9jQ3R"><img src="https://yt3.ggpht.com/ytc/AKedOLQc1OCf9gztVmcVnmI_41uN9axrRP8wd4a-GflFRQ=s900-c-k-c0x00ffffff-no-rj" /></a>
 
 <!---
 PizzaBossXD/PizzaBossXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
