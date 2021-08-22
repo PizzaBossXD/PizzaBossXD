@@ -5,6 +5,7 @@
 - 📫 How to reach me, just use email: pzbossxd@yahoo.com ...
 
 <a href="http://twitter.com/PizzaBossXD"><img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" alt="Twitter" width="60" height="40"></a>
+</br>
 <a href="https://steamcommunity.com/id/PizzaBosss/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png" alt="Steam" width="40" height="40"></a>
 </br>
 <a href="https://open.spotify.com/user/ktrvnptem5fb0gfyzkcd00l7i"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="Spotify" width="40" height="40"></a>
