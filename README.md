@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing...
 - 📫 How to reach me, just use email: pzbossxd@yahoo.com ...
 
-<a href="http://twitter.com/PizzaBossXD"><img src=https://www.freeiconspng.com/thumbs/logo-twitter-png/blue-logo-twitter-birds-emblem-3.png" alt="Twitter" width="40" height="40"></a>
+<a href="http://twitter.com/PizzaBossXD"><img src="https://www.freeiconspng.com/thumbs/logo-twitter-png/blue-logo-twitter-birds-emblem-3.png" alt="Twitter" width="40" height="40"></a>
 </br>
 <a href="https://steamcommunity.com/id/PizzaBosss/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png" alt="Steam" width="40" height="40"></a>
 </br>
