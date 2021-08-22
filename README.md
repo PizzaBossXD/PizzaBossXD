@@ -9,7 +9,7 @@
 <a href="https://open.spotify.com/user/ktrvnptem5fb0gfyzkcd00l7i"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="Spotify" width="30" height="30"></a>
 <a href="http://twitch.tv/PizzaBossXD"><img src="https://www.tailorbrands.com/wp-content/uploads/2021/04/twitch-logo.png" alt="Twitch" width="30" height="30"></a>
 <a href="http://pinterest.com/PizzaBossXD/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" alt="Pinterest" width="30" height="30"></a>
-<a href="https://dev.to/pizzaboss"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" alt="Dev.to" width="40" height="40"></a>
+<a href="https://dev.to/pizzaboss"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" alt="Dev.to" width="30" height="30"></a>
 
 ## Discord Server (Don't join it)
 <a href="https://discord.gg/3h9jQ3R"><img src="https://yt3.ggpht.com/ytc/AKedOLQc1OCf9gztVmcVnmI_41uN9axrRP8wd4a-GflFRQ=s900-c-k-c0x00ffffff-no-rj" alt="Discord" width="100" height="100" /></a>
