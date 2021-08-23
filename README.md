@@ -10,8 +10,7 @@
 <a href="https://dev.to/pizzaboss"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" alt="Dev.to" width="30" height="30"></a>
 <a href="https://medium.com/@pizzaboss"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" alt="Dev.to" width="30" height="30"></a>
 
-### Discord Server (Don't join it)
-<a href="https://discord.gg/3h9jQ3R"><img src="https://yt3.ggpht.com/ytc/AKedOLQc1OCf9gztVmcVnmI_41uN9axrRP8wd4a-GflFRQ=s900-c-k-c0x00ffffff-no-rj" alt="Discord" width="65" height="65" /></a>
+<h1>Discord Server (Don't join it) <a href="https://discord.gg/3h9jQ3R"><img src="https://yt3.ggpht.com/ytc/AKedOLQc1OCf9gztVmcVnmI_41uN9axrRP8wd4a-GflFRQ=s900-c-k-c0x00ffffff-no-rj" alt="Discord" width="65" height="65" /></a></h1>
 ### Solo.to Page
 <a href="https://solo.to/pb"><img src="https://pbs.twimg.com/profile_images/1224925918516236288/TtH8a02U_400x400.jpg" alt="Solo.to Page" width="65" height="65" /></a>
 
