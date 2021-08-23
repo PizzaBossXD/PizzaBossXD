@@ -1,3 +1,6 @@
+## Banner
+<img src="https://github.com/PizzaBossXD/PizzaBossXD/blob/main/Banner.png?raw=true" alt="Banner" width="500" height="500"></a>
+
 - 👋 Hi, I’m PizzaBoss
 - 👀 I’m an EPIC programmer...
 - 🌱 I’m currently learning a lot of stuff...
