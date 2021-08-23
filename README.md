@@ -1,4 +1,3 @@
-### Banner
 [![Header](https://github.com/PizzaBossXD/PizzaBossXD/blob/main/Header.png?raw=true "Header")](https://github.com/pizzabossxd)
 
 - 👋 Hi, I’m PizzaBoss
