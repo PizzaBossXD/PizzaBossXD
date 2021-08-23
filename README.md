@@ -1,6 +1,6 @@
 [![Header](https://github.com/PizzaBossXD/PizzaBossXD/blob/main/Header.png?raw=true "Header")](https://github.com/pizzabossxd)
 
-# ```Hello World!``` <img src="https://github.com/PizzaBossXD/PizzaBossXD/blob/main/GitHubWave.gif?raw=true" width="30px">
+# Hello World! <img src="https://github.com/PizzaBossXD/PizzaBossXD/blob/main/GitHubWave.gif?raw=true" width="30px">
 
 <a href="http://twitter.com/PizzaBossXD"><img src="https://www.freeiconspng.com/thumbs/logo-twitter-png/blue-logo-twitter-birds-emblem-3.png" alt="Twitter" width="35" height="30"></a>
 <a href="https://steamcommunity.com/id/PizzaBosss/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png" alt="Steam" width="30" height="30"></a>
