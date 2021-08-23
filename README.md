@@ -1,5 +1,5 @@
 ### Banner
-<img src="https://github.com/PizzaBossXD/PizzaBossXD/blob/main/Banner.png?raw=true" alt="Banner" width="1000" height="200"></a>
+<img src="https://github.com/PizzaBossXD/PizzaBossXD/blob/main/Banner.png?raw=true" alt="Banner" width="1000" height="500"></a>
 
 - 👋 Hi, I’m PizzaBoss
 - 👀 I’m an EPIC programmer...
