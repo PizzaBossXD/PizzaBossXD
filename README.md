@@ -11,9 +11,6 @@
 <a href="https://medium.com/@pizzaboss"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" alt="Dev.to" width="30" height="30"></a>
 <a href="https://solo.to/pb"><img src="https://github.com/PizzaBossXD/PizzaBossXD/blob/main/SolotoIcon.png?raw=true" alt="Solo.to Page" width="50" height="30" /></a>
 
-### Discord Server (Don't join it)
-<a href="https://discord.gg/3h9jQ3R"><img src="https://yt3.ggpht.com/ytc/AKedOLQc1OCf9gztVmcVnmI_41uN9axrRP8wd4a-GflFRQ=s900-c-k-c0x00ffffff-no-rj" alt="Discord" width="65" height="65" /></a>
-
 <!---
 PizzaBossXD/PizzaBossXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
