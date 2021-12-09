@@ -10,6 +10,7 @@
 <a href="https://dev.to/pizzaboss"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" alt="Dev.to" width="30" height="30"></a>
 <a href="https://medium.com/@pizzaboss"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" alt="Dev.to" width="30" height="30"></a>
 <a href="https://solo.to/pb"><img src="https://github.com/PizzaBossXD/PizzaBossXD/blob/main/SolotoIcon.png?raw=true" alt="Solo.to Page" width="50" height="30" /></a>
+<a href="https://www.youtube.com/channel/UCBo1DY6TgyJJJ42WS_pp_5A"><img src="https://logolook.net/wp-content/uploads/2021/06/Symbol-Youtube.png" alt="YouTube" width="30" height="30"></a>
 
 <!---
 PizzaBossXD/PizzaBossXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
