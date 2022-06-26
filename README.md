@@ -14,7 +14,6 @@
 <br>
 <img src="https://spotify-playing-badge.vercel.app/api/now-playing" width="540" height="52">
 
-## [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/622881784702435338)](https://discord.com/users/622881784702435338)
 ## ![GITHDDUB](https://github-readme-stats.vercel.app/api/top-langs/?username=PizzaBossXD&show_icon=ture&theme=radical)
 ## ![GITHUB](https://github-readme-stats.vercel.app/api?username=PizzaBossXD&count_private=true&show_icons=true&theme=radical)
 
