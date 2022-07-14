@@ -11,7 +11,7 @@
 <a href="https://medium.com/@pizzaboss"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" alt="Dev.to" width="30" height="30"></a>
 <a href="https://solo.to/pb"><img src="https://github.com/PizzaBossXD/PizzaBossXD/blob/main/SolotoIcon.png?raw=true" alt="Solo.to Page" width="50" height="30" /></a>
 <a href="https://www.youtube.com/channel/UCBo1DY6TgyJJJ42WS_pp_5A"><img src="https://logolook.net/wp-content/uploads/2021/06/Symbol-Youtube.png" alt="YouTube" width="50" height="30"></a>
-<a href="https://open.spotify.com/user/ktrvnptem5fb0gfyzkcd00l7i"><img src="https://logospng.org/download/spotify/logo-spotify-icon-512.png" alt="Spotify" width="50" height="30"></a>
+<a href="https://open.spotify.com/user/ktrvnptem5fb0gfyzkcd00l7i"><img src="https://logospng.org/download/spotify/logo-spotify-icon-512.png" alt="Spotify" width="30" height="30"></a>
 <br>
 <img src="https://spotify-playing-badge.vercel.app/api/now-playing" width="540" height="52">
 
